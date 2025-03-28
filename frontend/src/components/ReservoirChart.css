@@ -1,0 +1,16 @@
+.reservoir-chart {
+    background-color: #ffffff;
+    padding: 24px;
+    border-radius: 12px;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.05);
+    margin-bottom: 30px;
+    width: fit-content;
+    margin: auto;
+  }
+  
+  .recharts-wrapper {
+    background: #fafafa;
+    border-radius: 8px;
+    padding: 12px;
+  }
+  
